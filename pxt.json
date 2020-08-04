@@ -1,0 +1,24 @@
+{
+    "name": "give_me_money",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5",
+        "servo": "*",
+        "TM1637": "github:pxt-peijing/tm1637#5ebdd4c136252d2fa4f6589686ab1bb97a9569d8",
+        "imbot": "github:pxt-peijing/pxt-mijiabit#0526d0a3f9a8557e67b6a10b372957174663a5f0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
